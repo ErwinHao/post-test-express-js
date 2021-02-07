@@ -23,7 +23,27 @@ A mock RESTful API for assignment with local .json data
 | PUT    | /books/:id |
 | DELETE | /books/:id |
 
-## Usages
+## Usage
+
+Install required dependencies first
+
+<code>
+    
+  npm i
+    
+</code>
+
+---
+
+Run server by running:
+
+<code>
+  
+  npm start
+  
+</code>
+
+**Response Result**
 
 * GET /api/books
 
