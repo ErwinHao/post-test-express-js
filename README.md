@@ -28,9 +28,7 @@ A mock RESTful API for assignment with local .json data
 Install required dependencies first
 
 <code>
-    
   npm i
-    
 </code>
 
 ---
@@ -38,9 +36,7 @@ Install required dependencies first
 Run server by running:
 
 <code>
-  
   npm start
-  
 </code>
 
 **Response Result**
