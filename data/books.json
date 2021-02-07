@@ -1,0 +1,26 @@
+  {
+    "books": [{
+      "id": 1,
+      "isbn": "576-31-671-9203-3",
+      "judul": "Thrilling Tales of Dragon Slayers",
+      "sinopsis": "The heart of justice harbors more power in the sword!",
+      "penulis": "God Beast",
+      "genre": ["Action", "Adventure", "Fantasy", "Isekai"]
+    },
+    {
+      "id": 2,
+      "isbn": "493-9-53-78853-51",
+      "judul": "Lost Prayer to the Sacred Winds",
+      "sinopsis": "A whirlwind hiding in the shadows! Now come out with various techniques...",
+      "penulis": "Sarutobi Ninjaden",
+      "genre": ["Action", "Adventure", "Shounen", "Martial Arts"]
+    },
+    {
+      "id": 3,
+      "isbn": "881-21-69-32330-7",
+      "judul": "I Level Up Alone",
+      "sinopsis": "I Level Up Alone is a story about the weakest hunter Sung Jin-Woo and his quest to become the strongest, S-Rank hunter",
+      "penulis": "Chugong",
+      "genre": ["Action", "Fantasy", "Adventure"]
+    }]
+  }
