@@ -1,12 +1,11 @@
 # Mock RESTful API
 
----
 
 A mock RESTful API for assignment
 
 ## BaseURL
 
----
+
 
 <pre>
   localhost:5000/api
@@ -14,7 +13,7 @@ A mock RESTful API for assignment
 
 ## Endpoints
 
----
+
 
 | Method |  Endpoint  |
 | ------ | :--------: |
