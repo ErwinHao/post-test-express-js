@@ -46,31 +46,31 @@ Run server by running:
 
 
 <code>
-* GET /api/books
+GET /api/books
 </code>
 
   Get all instances of books
   
 <code>
-* GET /api/books/:id
+GET /api/books/:id
 </code>
 
   Get certain instance of a book by id
   
 <code>
-* POST /api/books
+POST /api/books
 </code>
 
   Create a new book
   
 <code>
-* PUT /api/books/:id
+PUT /api/books/:id
 </code>
 
   Update certain instance of a book by id
   
 <code>  
-* DELETE /api/books/:id
+DELETE /api/books/:id
 </code>
 
   Delete a certain instance of a book by id
