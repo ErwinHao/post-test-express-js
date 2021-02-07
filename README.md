@@ -1,7 +1,7 @@
 # Mock RESTful API
 
 
-A mock RESTful API for assignment
+A mock RESTful API for assignment with local .json data
 
 ## BaseURL
 
