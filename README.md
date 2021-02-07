@@ -27,19 +27,23 @@ A mock RESTful API for assignment with local .json data
 
 Install required dependencies first
 
-<code>
+<pre>
   npm i
-</code>
+</pre>
 
 ---
 
 Run server by running:
 
-<code>
+<pre>
   npm start
-</code>
+</pre>
 
-**Response Result**
+---
+
+<code>
+Response Result
+</code>
 
 * GET /api/books
 
